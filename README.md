@@ -6,7 +6,7 @@ The accuracy of the Neural Network algorithm is around 77,9 percent and AdaBoost
 
 Not only for predicting schemes and classifying thesis titles, this project is equipped with a word cloud feature. its function is to see what the focus is on all test data
 
-This project is made with the Orange tool and uses the Ubuntu Linux operating system
+This project is made with the Orange tool
 
 # Model
 ![model](https://user-images.githubusercontent.com/63402638/109107293-6b948180-776c-11eb-9efe-7521bda7fd6c.png)
