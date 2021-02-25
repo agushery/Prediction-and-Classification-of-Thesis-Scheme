@@ -1,6 +1,6 @@
 # Prediction-and-Classification-of-Thesis-Scheme
 
-This is a simple project to determine a thesis title scheme based on data that has been trained using the Neural Network, and AdaBoost algorithms.
+This is a simple project created by Agus Hery to determine a thesis title scheme based on data that has been trained using the Neural Network, and AdaBoost algorithms.
 
 The accuracy of the Neural Network algorithm is around 77,9 percent and AdaBoost algorithm is around 75,1 percent
 
