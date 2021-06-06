@@ -16,9 +16,3 @@ This project is made with the Orange tool
 
 # Word Cloud
 ![word-cloud](https://user-images.githubusercontent.com/63402638/109107553-e5c50600-776c-11eb-97ec-b19aa9b74d61.png)
-
-# Classification
-![klasifikasi](https://user-images.githubusercontent.com/63402638/109107729-39cfea80-776d-11eb-8b44-d460fc543710.png)
-
-# Distributions
-![distribution](https://user-images.githubusercontent.com/63402638/109107771-4eac7e00-776d-11eb-8821-88f07c7f5d96.png)
